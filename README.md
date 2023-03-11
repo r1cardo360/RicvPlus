@@ -6,7 +6,7 @@ este progeto foi criado com intuito de ser uma landpage de um streaming de jogos
 neste projeto foi ultilizado apenas html e css
 foi ultilizado diplay grid, flex-box, pseudoclasses, listas html entre outras coisas
 
-acesse para ver o projeto:
+acesse para ver o projeto: https://precious-bienenstitch-dc7962.netlify.app
 
 se quiser ultilizar o projeto basta fazer o download e se divertir.
 
